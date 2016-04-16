@@ -12,7 +12,7 @@
   <remote  name="private"
            fetch="ssh://git@bitbucket.org" />
 
-  <default revision="refs/heads/stable/cm-13.0-ZNH2K"
+  <default revision="refs/heads/cm-13.0"
            remote="github"
            sync-c="true"
            sync-j="4" />
