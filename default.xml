@@ -17,10 +17,6 @@
            sync-c="true"
            sync-j="4" />
 
-<!-- BEGIN CYANOGENMOD -->
-  <project path="build" name="CyanogenMod/android_build" groups="pdk" >
-    <copyfile src="core/root.mk" dest="Makefile" />
-  </project>
 
 <project path="external/doclava" name="CyanogenMod/android_external_doclava" groups="pdk-cw-fs,pdk-fs" />
 <!-- END CYANOGENMOD -->
