@@ -20,7 +20,6 @@
 
   <project path="external/doclava" name="CyanogenMod/android_external_doclava" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/guava" name="CyanogenMod/android_external_guava" groups="pdk-cw-fs,pdk-fs" />
-  <project path="external/ntfs-3g" name="CyanogenMod/android_external_ntfs-3g" />
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" groups="pdk" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" groups="pdk,linux" clone-depth="1" remote="aosp" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"  groups="pdk,linux" clone-depth="1" remote="aosp" />
