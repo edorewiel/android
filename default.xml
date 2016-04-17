@@ -23,6 +23,7 @@
   <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" groups="pdk" />
   <project path="external/fuse" name="CyanogenMod/android_external_fuse" />
   <project path="external/ntfs-3g" name="CyanogenMod/android_external_ntfs-3g" />
+  <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" groups="pdk" />
 <!-- END CYANOGENMOD -->
 
 </manifest>
